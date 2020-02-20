@@ -52,7 +52,7 @@ nav a:hover{
 }
 
 .budz {
-    width: 100%;
+    width: 50%;
 }
 .item {
     height: 100vh;
@@ -91,4 +91,10 @@ label {
 }
 .contact {
     color: #e4532a
+}
+
+@media only screen and (max-width: 1000px) {
+ .budz {
+        width: 100%;
+    }
 }
