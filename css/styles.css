@@ -84,6 +84,9 @@ footer {
 .about-row{
     margin-top: 20px;
 }
+.text {
+    color: #0391c3;
+}
 
 /* Contact Styles */
 label {
@@ -96,5 +99,8 @@ label {
 @media only screen and (max-width: 1000px) {
  .budz {
         width: 100%;
+    }
+    .josie {
+        border-top: 1px solid #0391c3
     }
 }
