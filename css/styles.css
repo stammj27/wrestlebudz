@@ -20,6 +20,7 @@ nav a{
     color: #0391c3;
     background-color: #002a53;
     border: 3px solid #e4532a;
+    border-radius: 10px;
     margin: 2px;
     text-decoration: none;
     font-family: Impact, sans-serif;
