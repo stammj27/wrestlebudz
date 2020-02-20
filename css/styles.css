@@ -49,6 +49,10 @@ nav a:hover{
 #about p{
     color: #0391c3
 }
+
+.buds {
+    width: 100%;
+}
 .item {
     height: 100vh;
     width: 100%;
